@@ -11,7 +11,7 @@ import io
 
 # Set page config
 st.set_page_config(
-    page_title="Altera JHA Assistant",
+    page_title="Maran JHA Assistant",
     page_icon="📋",
     layout="wide",
     initial_sidebar_state="collapsed"  # Changed to collapsed to reduce the sidebar
@@ -655,7 +655,7 @@ st.markdown("""
 # App layout
 def main():
     # Title and introduction
-    st.title("Altera JHA Assistant")
+    st.title("Maran JHA Assistant")
     st.markdown("Generate Job Hazard Analysis documents for maritime operations")
     
     # Create columns for layout
