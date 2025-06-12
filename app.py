@@ -18,7 +18,7 @@ st.set_page_config(
 )
 
 # Configure API
-API_KEY = "AIzaSyC1mpXgPOmRf_ChF8DzNN1DIUn291w6QoA"  # Your new API key
+API_KEY = "AIzaSyC1mpXgPOmRf_ChF8DzNN1DlUn291w6QoA"  # Your new API key
 genai.configure(api_key=API_KEY)
 
 # Try to get an available model
